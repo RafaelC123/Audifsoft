@@ -1,0 +1,12 @@
+C:\Users\rafae\source\repos\Audisoft\AudiSoftProyect\Audisoft.Application\bin\Debug\net7.0\Audisoft.Application.deps.json
+C:\Users\rafae\source\repos\Audisoft\AudiSoftProyect\Audisoft.Application\bin\Debug\net7.0\Audisoft.Application.dll
+C:\Users\rafae\source\repos\Audisoft\AudiSoftProyect\Audisoft.Application\bin\Debug\net7.0\Audisoft.Application.pdb
+C:\Users\rafae\source\repos\Audisoft\AudiSoftProyect\Audisoft.Application\obj\Debug\net7.0\Audisoft.Application.csproj.AssemblyReference.cache
+C:\Users\rafae\source\repos\Audisoft\AudiSoftProyect\Audisoft.Application\obj\Debug\net7.0\Audisoft.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\source\repos\Audisoft\AudiSoftProyect\Audisoft.Application\obj\Debug\net7.0\Audisoft.Application.AssemblyInfoInputs.cache
+C:\Users\rafae\source\repos\Audisoft\AudiSoftProyect\Audisoft.Application\obj\Debug\net7.0\Audisoft.Application.AssemblyInfo.cs
+C:\Users\rafae\source\repos\Audisoft\AudiSoftProyect\Audisoft.Application\obj\Debug\net7.0\Audisoft.Application.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\Audisoft\AudiSoftProyect\Audisoft.Application\obj\Debug\net7.0\Audisoft.Application.dll
+C:\Users\rafae\source\repos\Audisoft\AudiSoftProyect\Audisoft.Application\obj\Debug\net7.0\refint\Audisoft.Application.dll
+C:\Users\rafae\source\repos\Audisoft\AudiSoftProyect\Audisoft.Application\obj\Debug\net7.0\Audisoft.Application.pdb
+C:\Users\rafae\source\repos\Audisoft\AudiSoftProyect\Audisoft.Application\obj\Debug\net7.0\ref\Audisoft.Application.dll

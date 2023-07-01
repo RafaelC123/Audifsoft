@@ -1,0 +1,28 @@
+
+
+<mat-card class="mat-elevation-z8">
+  <mat-card-header>
+  <h4>Formulario</h4>
+
+  </mat-card-header>
+  <mat-card-content>
+    <div *ngFor="let input of Configs">
+      <mat-form-field appearance="outline" *ngIf="input.type == 'select'">
+        <mat-label>{{input.label}}</mat-label>
+        <mat-select [(ngModel)]="model[input.propertyName]">
+          <mat-option *ngFor="let opt of input.valuesOptions" [value]="opt.value">{{opt.text}}</mat-option>
+        </mat-select>
+      </mat-form-field>
+
+      <mat-form-field appearance="outline" *ngIf="input.type == null || input.type == 'default'">
+        <mat-label>{{input.label}}</mat-label>
+        <input matInput [(ngModel)]="model[input.propertyName]">
+      </mat-form-field>
+    </div>
+
+  </mat-card-content>
+
+  <mat-card-footer>
+    <button mat-button (click)="SaveClick()">Guardar</button>
+  </mat-card-footer>
+</mat-card>

@@ -1,0 +1,59 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+
+* {
+  outline: none;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  overflow-x: hidden;
+  font-weight: 300;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  overflow: hidden;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+html .page-wrapper {
+  height: calc(100vh - 64px);
+
+  .page-content {
+    padding: 30px 15px;
+    max-width: 1300px;
+    margin: 0 auto;
+  }
+}
+.img-responsive {
+  width: 100%;
+  height: auto;
+  display: inline-block;
+}
+
+hr {
+  border: 0px;
+  height: 1px;
+  width: 100%;
+}
+
+html body .mdi:before,
+html body .mdi-set {
+  line-height: initial;
+}
+
+

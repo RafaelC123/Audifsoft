@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Audisoft.Api.props" />
+</Project>

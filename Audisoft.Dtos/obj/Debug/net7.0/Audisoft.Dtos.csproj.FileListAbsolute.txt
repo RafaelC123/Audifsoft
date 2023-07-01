@@ -1,0 +1,15 @@
+C:\Users\rafae\source\repos\Audisoft\AudiSoftProyect\Audisoft.Dtos\bin\Debug\net7.0\Audisoft.Dtos.deps.json
+C:\Users\rafae\source\repos\Audisoft\AudiSoftProyect\Audisoft.Dtos\bin\Debug\net7.0\Audisoft.Dtos.dll
+C:\Users\rafae\source\repos\Audisoft\AudiSoftProyect\Audisoft.Dtos\bin\Debug\net7.0\Audisoft.Dtos.pdb
+C:\Users\rafae\source\repos\Audisoft\AudiSoftProyect\Audisoft.Dtos\bin\Debug\net7.0\Audisoft.Application.dll
+C:\Users\rafae\source\repos\Audisoft\AudiSoftProyect\Audisoft.Dtos\bin\Debug\net7.0\Audisoft.Application.pdb
+C:\Users\rafae\source\repos\Audisoft\AudiSoftProyect\Audisoft.Dtos\obj\Debug\net7.0\Audisoft.Dtos.csproj.AssemblyReference.cache
+C:\Users\rafae\source\repos\Audisoft\AudiSoftProyect\Audisoft.Dtos\obj\Debug\net7.0\Audisoft.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\source\repos\Audisoft\AudiSoftProyect\Audisoft.Dtos\obj\Debug\net7.0\Audisoft.Dtos.AssemblyInfoInputs.cache
+C:\Users\rafae\source\repos\Audisoft\AudiSoftProyect\Audisoft.Dtos\obj\Debug\net7.0\Audisoft.Dtos.AssemblyInfo.cs
+C:\Users\rafae\source\repos\Audisoft\AudiSoftProyect\Audisoft.Dtos\obj\Debug\net7.0\Audisoft.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\Audisoft\AudiSoftProyect\Audisoft.Dtos\obj\Debug\net7.0\Audisoft.Dtos.csproj.CopyComplete
+C:\Users\rafae\source\repos\Audisoft\AudiSoftProyect\Audisoft.Dtos\obj\Debug\net7.0\Audisoft.Dtos.dll
+C:\Users\rafae\source\repos\Audisoft\AudiSoftProyect\Audisoft.Dtos\obj\Debug\net7.0\refint\Audisoft.Dtos.dll
+C:\Users\rafae\source\repos\Audisoft\AudiSoftProyect\Audisoft.Dtos\obj\Debug\net7.0\Audisoft.Dtos.pdb
+C:\Users\rafae\source\repos\Audisoft\AudiSoftProyect\Audisoft.Dtos\obj\Debug\net7.0\ref\Audisoft.Dtos.dll

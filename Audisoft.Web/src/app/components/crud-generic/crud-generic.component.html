@@ -1,0 +1,4 @@
+<app-form-generic (Edit)="Edit($event)" (Save)="saveClick.emit($event)" [Configs]="Config.controls"></app-form-generic>
+<br>
+<app-show-data (EditEmit)="EditEventSet($event)" (DeleteEmit)="Delete($event)" [headers]="Config.headers" [Data]="data">
+</app-show-data>
